@@ -1,4 +1,4 @@
-![Taylor Washington](/assets/img/Profile_Pic.jpeg)
+![Taylor Washington](/assets/img/Profile Pic.jpeg)
 # Data Scientist
 ### Educaton 
 - Industrial Engineering, B.S. at University of Miami 
