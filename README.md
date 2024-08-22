@@ -1,3 +1,4 @@
+![Taylor Washington](/assets/img/Profile_Pic.jpeg)
 # Data Scientist
 ### Educaton 
 - Industrial Engineering, B.S. at University of Miami 
@@ -10,6 +11,6 @@
 - Industrial Engineer at NextEra Energy 
 
 ### Projects
-- Olympics Stats
-- BSR Insurance Recommendation 
+- [Olympics Stats](https://public.tableau.com/app/profile/taylor.washington/viz/OlympicStats1900s-2008/Insight6)
+- [BSR Insurance Dashboard](https://public.tableau.com/app/profile/taylor.washington/viz/BSRInsuranceAnalysis/FinalOverview)
 - Audit Report 
