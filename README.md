@@ -4,7 +4,7 @@
 - Industrial Engineering, B.S. at University of Miami 
 - MSBA Candidate at Georgetown University  
 ### Work Experience
-- Data Analyst at Pentagon 
+- Data Analyst with TQI Solutions 
 - Data Scientist at Northrop Grumman 
 - RPA Developer at IBM 
 - Industrial Engineer at American Express
