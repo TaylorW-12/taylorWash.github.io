@@ -5,7 +5,7 @@
 ### 🎓 Educaton 
 - Industrial Engineering, B.S. at University of Miami 
 - MS Business Analytics Candidate at Georgetown University  
-###💼 Work Experience
+### 💼 Work Experience
 - Data Analyst with TQI Solutions 
 - Data Scientist at Northrop Grumman 
 - RPA Developer at IBM 
@@ -19,4 +19,12 @@
 - **Highlights:**
   - Bullet point key achievements or functionalities.
 - [BSR Insurance Dashboard](https://public.tableau.com/app/profile/taylor.washington/viz/BSRInsuranceAnalysis/FinalOverview)
+- - - **Description:** Brief description of the project, what problem it solves, and its key features.
+- **Technologies Used:** JavaScript, Node.js, Express, etc.
+- **Highlights:**
+  - Bullet point key achievements or functionalities.
 - [Audit Report](https://public.tableau.com/app/profile/taylor.washington/viz/AuditDashboard_17251469402220/Dashboard1)
+- - - **Description:** Brief description of the project, what problem it solves, and its key features.
+- **Technologies Used:** JavaScript, Node.js, Express, etc.
+- **Highlights:**
+  - Bullet point key achievements or functionalities.
