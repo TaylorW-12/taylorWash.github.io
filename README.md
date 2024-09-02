@@ -14,7 +14,7 @@
 ## 📊 Skills
 - **Programming Languages:** Python, R, SQL, HTML
 - **Data Analysis & Visualization:** Pandas, Tableau
-- **Tools & Platforms:** Git, Jupyter Notebook,Google Collab,Alteryx, Tableau Prep, SharePoint, Power Automate, Power Apps, Power BI
+- **Tools & Platforms:** Git, Jupyter Notebook, Google Collab,Alteryx, Tableau Prep, SharePoint, Power Automate, Power Apps, Power BI
 ### 📂 Projects
 - [Olympics Stats](https://public.tableau.com/app/profile/taylor.washington/viz/OlympicStats1900s-2008/Insight6)
 - **Description:** Brief description of the project, what problem it solves, and its key features.
@@ -31,3 +31,10 @@
 - **Technologies Used:** JavaScript, Node.js, Express, etc.
 - **Highlights:**
   - Bullet point key achievements or functionalities.
+- [NWSL Exploratary Data Analysis](https://public.tableau.com/app/profile/taylor.washington/viz/AuditDashboard_17251469402220/Dashboard1)
+- **Description:** Brief description of the project, what problem it solves, and its key features.
+- **Technologies Used:** JavaScript, Node.js, Express, etc.
+- **Highlights:**
+  - Bullet point key achievements or functionalities.
+ 
+  
